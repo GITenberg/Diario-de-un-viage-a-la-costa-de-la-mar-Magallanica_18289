@@ -14,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Pedro_Lozano
     - http://es.wikipedia.org/wiki/Pedro_Lozano
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18289#Diario-de-un-viage-a-la-costa-de-la-mar-Magallanica
 gutenberg_bookshelf: Argentina
 gutenberg_issued: '2006-04-30'
 gutenberg_type: Text
